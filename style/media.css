@@ -121,6 +121,7 @@
     transition: 0.3s;
     bottom: 0;
     height: 100%;
+    z-index: 1;
 }
 .head{
     padding: 20px 0;
